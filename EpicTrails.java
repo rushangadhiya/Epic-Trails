@@ -1,14 +1,3 @@
-/*
-* COMP 1010 SECTION [A02]
-* INSTRUCTOR: [Zach Havens]
-* STUDENT NUMBER: [Student #008028220]
-* ASSIGNMENT: [Assignment #3]
-* QUESTION: [Question #3]
-*
-* PURPOSE: This program is written to build a simple adventure where the user makes decisions that shape the story’s
-  progression. (Extended edition with side quest)
-*/
-
 import java.util.Scanner;
 import java.util.Random;
 public class EpicTrails {
