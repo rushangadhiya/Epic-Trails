@@ -11,7 +11,7 @@
 
 import java.util.Scanner;
 import java.util.Random;
-public class GadhiyaRushanSohilbhaiA3Q3 {
+public class EpicTrails {
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
